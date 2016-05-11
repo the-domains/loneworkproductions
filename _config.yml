@@ -1,0 +1,28 @@
+name: LONEWORK PRODUCtIONS
+favicon: null
+layout_spectrum: 0.28713222267106175
+typography_spectrum: 0.11492135305888951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9773498752620071
+  lightness: 0.4843957698903978
+  saturation: 0.8252508193254471
+  rhythmicContrast: 0.23008974827826023
+purpose: []
