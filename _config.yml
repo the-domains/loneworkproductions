@@ -1,7 +1,7 @@
 name: LONEWORK PRODUCTIONS
 favicon: null
-layout_spectrum: 0.75867
-typography_spectrum: 0.69848
+layout_spectrum: 1
+typography_spectrum: 0.56298
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.1875
-  lightness: 0.25
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
